@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riotraider&theme=synthwave&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RiotRaiders's GitHub stats](https://github-readme-stats-riotraider.vercel.app/api?username=riotraider&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/RiotRaider/github-readme-stats)\
+[![RiotRaiders's Top Languages](https://github-readme-stats-riotraider.vercel.app/api/top-langs/?username=riotraider&layout=compact&card_width=445&langs_count=10&theme=transparent)](https://github.com/RiotRaider/github-readme-stats)
