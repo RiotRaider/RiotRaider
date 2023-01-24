@@ -1,2 +1,2 @@
-[![RiotRaiders's GitHub stats](https://github-readme-stats-riotraider.vercel.app/api?username=riotraider&card_width=375&show_icons=true&theme=transparent&include_all_commits=true&show_private=true)](https://github.com/RiotRaider/github-readme-stats)
+[![RiotRaiders's GitHub stats](https://github-readme-stats-riotraider.vercel.app/api?username=riotraider&card_width=375&show_icons=true&theme=transparent&show_private=true)](https://github.com/RiotRaider/github-readme-stats)
 [![RiotRaiders's Top Languages](https://github-readme-stats-riotraider.vercel.app/api/top-langs/?username=riotraider&layout=compact&card_width=350&langs_count=10&theme=transparent&custom_title=Recent%20Language%20Contributions&show_private=true)](https://github.com/RiotRaider/github-readme-stats)
